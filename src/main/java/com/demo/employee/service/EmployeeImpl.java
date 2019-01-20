@@ -19,9 +19,9 @@ public class EmployeeImpl {
 	EmployeeRepo employeeRepo;
 
 	/**
-	 * Method used to fetch complete employee list
+	 * Method used to fetch complete employee list 
 	 * 
-	 * @author Karthick
+	 * @author Karthick1
 	 * @return employee list
 	 */
 	public List<EmployeeBean> getEmployeeList() throws Exception {
